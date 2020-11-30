@@ -1,0 +1,39 @@
+{
+  "vehicles": [
+    {
+      "vehicle": "Car",
+      "ownerName": "Josh Brolin",
+      "details": "some detail about Josh Car"
+    },
+    {
+      "vehicle": "Bike",
+      "ownerName": "Josh Brolin",
+      "details": "some detail about Josh Bike"
+    },
+    {
+      "vehicle": "Motorcycle",
+      "ownerName": "Josh Brolin",
+      "details": "some detail about Josh Motorcycle"
+    },
+    {
+      "vehicle": "Bike",
+      "ownerName": "Johnny",
+      "details": "some detail about Johnny Bike"
+    },
+    {
+      "vehicle": "Airplane",
+      "ownerName": "Bill Gates",
+      "details": "some detail Bill Gates Airplane"
+    },
+    {
+      "vehicle": "Boat",
+      "ownerName": "Steve Job",
+      "details": "some detail Steve Job Boat"
+    },
+    {
+      "vehicle": "Aircraft Carrier",
+      "ownerName": "Elon Musk",
+      "details": "some detail Elon Aircraft Carrier"
+    }
+  ]
+}
